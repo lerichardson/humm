@@ -1,0 +1,21 @@
+{
+    "name": "humm-theme",
+    "displayName": "Humm theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Humm Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Humm Theme-color-theme.json"
+            }
+        ]
+    }
+}
